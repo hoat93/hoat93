@@ -20,3 +20,19 @@
   - MongoDB
 
 
+## 🌟 项目经历
+- **[在线学习平台](https://github.com/hoat93/online-learning-platform)**：
+  - **描述**：一个为学生和教师提供课程管理和在线学习的系统，支持视频教学和作业提交。
+  - **技术栈**：React, Node.js, PostgreSQL。
+  - **亮点**：实现了实时讨论区，用户可以在课程中进行互动和提问。
+
+- **[个人财务管理工具](https://github.com/hoat93/finance-management-tool)**：
+  - **描述**：一个帮助用户管理和分析个人财务的应用，支持收入和支出记录。
+  - **技术栈**：Angular, Laravel, MongoDB。
+  - **亮点**：提供预算管理和财务报告生成功能，帮助用户做出明智的财务决策。
+
+- **[社交网络应用](https://github.com/hoat93/social-network-app)**：
+  - **描述**：一个允许用户创建个人资料、发布状态和与朋友互动的社交网络平台。
+  - **技术栈**：JavaScript, HTML, CSS。
+  - **亮点**：实现了用户动态更新和好友推荐功能，增强用户体验。
+
